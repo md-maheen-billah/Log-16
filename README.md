@@ -14,6 +14,7 @@ d) console log the final array
 ![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/2ed833ac-17df-41fa-81d9-b0d2a7024d68)
 
 ![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/0d68e3dd-6556-47d8-a67b-190d7659e762)
+
 ---
 
 Practice Task-2:
@@ -32,7 +33,7 @@ e) display the final array as output
 
 ![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/f9c15b8c-a3b3-4bfa-baa2-271d63abdbd8)
 
-
+---
 
 Practice Task-3:
 
