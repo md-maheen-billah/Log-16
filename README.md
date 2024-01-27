@@ -59,6 +59,12 @@ b) Now use isArray to check if each variable is an array.
 
 c) Print a message to the console indicating whether each variable is an array or not.
 
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/b146e063-6351-48ef-83eb-e8279cdda35e)
+
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/49999ede-c6bc-4d2a-bcc2-a7885a3c8744)
+
+---
+
 Practice Task-5:
 
 a) Create two arrays of your choice.
