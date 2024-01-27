@@ -45,6 +45,11 @@ b) Use the includes method to check if the array contains a javascript book.
 
 c) Print a message to the console indicating whether the element is present in the array or not.
 
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/a7a1c24b-806e-469a-b2d0-3e8b43f050ce)
+
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/a12156f1-6271-4897-bb5c-4c9564a6d217)
+
+---
 
 Practice Task-4:
 
