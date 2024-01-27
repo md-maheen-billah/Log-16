@@ -72,3 +72,8 @@ a) Create two arrays of your choice.
 b) Use the concat method to combine the two arrays into a new array.
 
 c) Print both the original arrays and the combined array using console.log().
+
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/e34cf393-cf40-452c-94ef-e751943f893c)
+
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/2de175d3-767c-42c2-baea-90151e3accf2)
+
