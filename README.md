@@ -28,6 +28,12 @@ d) Remove the last tourist destination you have added
 
 e) display the final array as output
 
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/bc3002a6-66b4-4062-97c2-78210412cf50)
+
+![image](https://github.com/md-maheen-billah/Log-16/assets/140327805/f9c15b8c-a3b3-4bfa-baa2-271d63abdbd8)
+
+
+
 Practice Task-3:
 
 a) Create an array of books containing different book.
