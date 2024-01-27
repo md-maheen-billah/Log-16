@@ -1,6 +1,8 @@
 # Log 16 (Duration: 6 Months)
 Today's lesson focused arrays, push-pop, shift-unshift, includes, indexOf, isArray, join, concat, slice and splice. Some practice tasks were assigned.
 
+---
+
 Practice Task-1:
 
 a) Declare an array with 5 elements containing fruits
